@@ -1,0 +1,12 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "A simple app to test Jenkins builds",
+  "main": "src/app.js",
+  "scripts": {
+    "build": "echo 'Building the project...'",
+    "test": "echo 'Running tests...'; exit 0"
+  },
+  "author": "YourName",
+  "license": "MIT"
+}
